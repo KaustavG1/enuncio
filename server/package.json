@@ -1,0 +1,23 @@
+{
+  "name": "enuncio-server",
+  "version": "1.0.0",
+  "description": "enuncio backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaustavG1/e-nuncio.git"
+  },
+  "author": "Kaustav Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaustavG1/e-nuncio/issues"
+  },
+  "homepage": "https://github.com/KaustavG1/e-nuncio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
