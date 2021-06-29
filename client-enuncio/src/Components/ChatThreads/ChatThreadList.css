@@ -1,0 +1,14 @@
+.search-bar {
+  background-color: #e0e0e0;
+  padding: 20px 10px;
+  text-align: right;
+}
+
+.chat-thread-list {
+  background-color: #fff;
+  height: 740px;
+  width: 400px;
+  cursor: alias;
+  overflow: auto;
+  border-right: 1px solid #d1d1d1;
+}

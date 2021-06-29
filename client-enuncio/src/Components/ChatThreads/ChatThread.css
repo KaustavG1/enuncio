@@ -1,0 +1,39 @@
+.thread {
+  max-width: 400px;
+  /* background-color: #b2d3d6; */
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 10px;
+  border-bottom: 1px solid rgb(226, 224, 224);
+}
+
+.photo-and-info {
+  display: flex;
+}
+
+.photo {
+  background-color: #e3e3e3;
+  padding: 15px;
+  margin-right: 15px;
+  border-radius: 50%;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.name {
+  text-align: left;
+}
+
+.last-message {
+  text-align: left;
+}
+
+.thread:hover {
+  background-color: #b2d3d6;
+}

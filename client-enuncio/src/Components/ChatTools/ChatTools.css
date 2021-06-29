@@ -1,0 +1,19 @@
+.chat-tools {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.attach {
+  padding: 10px;
+}
+
+.message-input {
+  width: 700px;
+  outline: none;
+  border-radius: 20px;
+}
+
+.send {
+  padding: 10px;
+}

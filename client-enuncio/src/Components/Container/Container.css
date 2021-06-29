@@ -1,0 +1,5 @@
+.container {
+  margin: 70px 350px;
+  display: flex;
+  box-shadow: 2px 0px 10px 1px rgba(0, 0, 0, 0.4);
+}
